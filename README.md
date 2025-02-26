@@ -1,4 +1,4 @@
-Wanderlust – A Full-Stack web development project
+Wanderlust – A Full-Stack web development project.
 Wanderlust is a full-stack web application, allowing users to add, edit, and delete listings, leave reviews, and rate properties. Built with MERN stack (MongoDB, Express.js, React, Node.js), it provides a seamless experience for travelers and hosts alike.
 
 Features:
